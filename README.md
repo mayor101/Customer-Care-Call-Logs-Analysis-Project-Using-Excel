@@ -60,7 +60,7 @@ This project highlights my ability to:
 ## Author
 **Mayowa Osasona**  
 St. Albans, United Kingdom  
-[LinkedIn](https://www.linkedin.com/mayowaosasona) | [Portfolio Website](https://mayor101.github.io/myanalystportfolio.github.io/index.html)
+[LinkedIn](https://www.linkedin.com/in/mayowa-osasona-809491a9/)) | [Portfolio Website](https://mayor101.github.io/mayowaosasona.github.io/)
 
 
 *If you found this project helpful, please consider starring the repository!*
